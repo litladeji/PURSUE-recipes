@@ -2,7 +2,8 @@
 ##Ingredients
 * avocado
 * lemon
-*lime
-*pepper
+* lime
+* pepper
 * salt
 ##Instructions
+an ill-considered change
